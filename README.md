@@ -4,7 +4,7 @@
 
 
 <h1 align="center">
-    <img alt="Letmeask" src=".public/Images/GIF%20DEMO.gif" />
+    <img alt="Letmeask" src="/public/Images/GIF%20DEMO.gif" />
 </h1>
 
 <br>
