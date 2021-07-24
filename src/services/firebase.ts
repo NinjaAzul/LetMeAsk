@@ -22,3 +22,14 @@ const auth = firebase.auth();
 const database = firebase.database();
 
 export { firebase, auth, database }
+
+
+// #Firebase
+// REACT_APP_API_KEY="AIzaSyC6FVcEJg4P5COtIv2XsEauTR6ixlSVgTQ"
+// REACT_APP_AUTH_DOMAIN="letmeask-24d5d.firebaseapp.com"
+// REACT_APP_DATABASE_URL="https://letmeask-24d5d-default-rtdb.firebaseio.com"
+// REACT_APP_PROJECT_ID="letmeask-24d5d"
+// REACT_APP_STORAGE_BUCKET="letmeask-24d5d.appspot.com"
+// REACT_APP_MESSAGIN_SENDER_ID="597696086405"
+// REACT_APP_APP_ID="1:597696086405:web:00f25756572e270f6cc4ec"
+// REACT_APP_MEASUREMENT_ID="G-03DZPVGXRS"
