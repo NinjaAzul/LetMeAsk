@@ -66,4 +66,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com 💜 by Ericl 💜
+Feito com 💜 by Ericl 💜.
